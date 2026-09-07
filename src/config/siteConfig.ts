@@ -10,7 +10,7 @@ export const siteConfig = {
   address: '', whatsapp: '', instagram: '', phone: '', maps: '', hours: '',
   institutional: {
     headline: 'Odontologia integrada com atenção a você.',
-    introduction: 'Implantodontia e Ortodontia em Vitória da Conquista, com orientação para cada etapa do tratamento.',
+    introduction: 'Atendimento odontológico em Vitória da Conquista, com orientação clara em cada etapa do tratamento.',
     aboutTitle: 'Um atendimento que começa pela escuta.',
     about: 'Na MK, a primeira conversa é sobre você. O que está incomodando, quais são suas dúvidas e o que precisa de atenção na sua saúde bucal.',
     aboutComplement: 'A partir da avaliação, a equipe conversa sobre as possibilidades de tratamento. Você entende o planejamento antes de decidir como seguir.',
